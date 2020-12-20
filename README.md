@@ -1,7 +1,7 @@
 # Stock analysis 
 
 ## Abstract
-This project analyzes the Beyond Meat company in the perspective of social media sentiment and stock prices. Please feel free to use the shared methods for analyzing other comapnies. 
+This project analyzes the Beyond Meat (BYND) company in the perspective of social media sentiment and stock prices. Please feel free to use the shared methods for analyzing other comapnies. 
 On Twitter, the overall sentiment toward the company and its products are positive. In terms of stock prices, most of the models predicts it will continue to go down.
 
 ## 1. Introduction

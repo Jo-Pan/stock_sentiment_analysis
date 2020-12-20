@@ -66,3 +66,8 @@ Stock price prediction performance for the evaluated models is shown in Table 1.
 ##  4 Conclusion
 In conclusion, Beyond Meat’s products have a significant amount of positive comments in social media. Also, the market seems to treat it as an innovative stock. In terms of stock price, it tends to go up with its enterprise value and Google search trend. The stock price prediction is based on my best effort, however still far from perfect. At 2020-11-03, when I first tested the model, as illustrated in Figure 8, the predictions from LSTM2 were suggesting it might be close its ‘local minimum’. Even though other models suggested it may further plummet, I chose to believe my LSTM models have more reasonable predictions. Thus, I purchased 1 stock at that time just for fun. Fortunately, my models were at luck and I gained some money basing on the models.
 
+## References
+[1] “Beyond Meat, Inc. (BYND) Valuation Measures & Financial Statistics,” @YahooFinance, 2020. https://finance.yahoo.com/quote/BYND/key-statistics?p=BYND (accessed Dec. 11, 2020).
+[2] “Beyond Meat, Inc. (BYND) Stock Historical Prices & Data - Yahoo Finance,” @YahooFinance, 2020. https://finance.yahoo.com/quote/BYND/history?p=BYND (accessed Dec. 11, 2020).
+[3]Google Trends, “Google Trends,” Google Trends, 2015. https://trends.google.com/trends/explore?q=beyond%20meat&geo=US (accessed Dec. 11, 2020).
+[4] “Data Download,” The COVID Tracking Project, 2020. https://covidtracking.com/data/download (accessed Dec. 11, 2020).
